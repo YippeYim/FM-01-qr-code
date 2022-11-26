@@ -51,6 +51,15 @@ margin:auto;
 text-align:center;
 ```
 
+>**use this**
+>```html
+><img src="images\image-qr-code.png" alt="qr-code">
+>```
+>**instead of this**
+>```html
+><img src="images/image-qr-code.png" alt="qr-code">
+>```
+>*so github page can find your image.*
 ## Author
 
 - Frontend Mentor - [@YippeYim](https://www.frontendmentor.io/profile/YippeYim)
